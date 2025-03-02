@@ -27,7 +27,7 @@ const Chart = ({ data, thresholds }: ChartProps) => {
       <ResponsiveContainer width="100%" height="100%">
         <LineChart
           data={data}
-          margin={{ top: 5, right: 30, bottom: 5, left: 20 }}
+          margin={{ top: 5, right: 80, bottom: 5, left: 20 }}
         >
           <CartesianGrid stroke="#f5f5f5" />
           <XAxis dataKey="date" />
