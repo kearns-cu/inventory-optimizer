@@ -3,7 +3,7 @@
 A Next.js application that helps logistics managers optimize inventory thresholds based on historical data.
 
 ## Loom Demonstration
-[https://www.loom.com/share/2b4ba094a7b64a97854d24f2615f5245?sid=ecf043a9-0a7d-481a-9822-1bc76f82d2bc](https://www.loom.com/share/2b4ba094a7b64a97854d24f2615f5245?sid=ef6a6843-10d5-4857-973c-8cba25e8e6c4)
+https://www.loom.com/share/2b4ba094a7b64a97854d24f2615f5245?sid=ff26bbed-f606-4fa6-b5d9-7863aa5f5bab
 
 ## Features
 
