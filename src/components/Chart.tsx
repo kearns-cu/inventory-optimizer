@@ -32,7 +32,7 @@ const Chart = ({ data, thresholds }: ChartProps) => {
           <CartesianGrid stroke="#f5f5f5" />
           <XAxis dataKey="date" />
           <YAxis domain={[yMin, yMax]} />
-          <Tooltip />
+          <Tooltip contentStyle={{ backgroundColor: 'white', color: 'black' }} labelStyle={{ color: 'black' }} />
           <Line 
             type="monotone" 
             dataKey="inventory_level" 
