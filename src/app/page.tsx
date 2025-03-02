@@ -127,7 +127,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="bg-white p-4 rounded-lg shadow">
+        <div className="bg-white p-4 rounded-lg shadow h-[500px]">
           {data.length > 0 && (
             <DynamicChart data={data} thresholds={thresholds} />
           )}
